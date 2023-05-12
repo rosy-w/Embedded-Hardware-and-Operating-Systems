@@ -13,3 +13,4 @@ The result observed is that when the potentiometer is rotated more to the left(t
 the sensor value decreases closer to 0. When potentiometer is rotated more to the right (5v terminal), the sensor value increases closer to 1023.
 
 The output being the LED, which is controlled by the sensorValue,determines the delay in blinking of the light. 
+![image](https://github.com/rosywaruku/Embedded-Hardware-and-Operating-Systems/assets/71630865/73640c9a-6a9b-4f5d-bc2c-66bd4b3fb0d5)
