@@ -1,4 +1,5 @@
 Resources: https://docs.arduino.cc/built-in-examples/analog/AnalogInput
+
 An analog to digital converter demonstration using Arduino.
 
 A potentiometer is used to control the blinking of a built-in LED. 
